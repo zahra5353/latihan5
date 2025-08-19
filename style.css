@@ -1,3 +1,9 @@
 body {
     font-size: 15pt;
 }
+
+  a {
+      text-decoration: none;
+      color: #3498db;
+      font-weight: bold;
+  }
